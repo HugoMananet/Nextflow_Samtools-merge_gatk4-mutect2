@@ -1,0 +1,11 @@
+*.simg
+work/*
+resdir/*
+*.vcf
+*.vcf.gz
+*.bam
+*.bam.bai
+*.fasta
+data/*
+.nextflow*
+log_commandes
